@@ -1,4 +1,4 @@
-def looping
+#def looping
 	#your code here
 	counter = 0 
 	loop do
